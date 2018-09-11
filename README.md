@@ -1,2 +1,4 @@
 # serial-midi
-Simple Serial-to-MIDI bridge
+Simple Serial-to-MIDI bridge application written in JavaFX.
+
+Project is currently **under development!** 
